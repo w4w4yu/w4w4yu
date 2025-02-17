@@ -3,7 +3,7 @@
 Hi, I’m Benes Marlon J. Edrote
 
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning JS, HTML, PHP, CSS
+- 🌱 I’m currently learning JS, HTML, PHP, CSS.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing sports and esports.
 
