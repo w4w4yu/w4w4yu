@@ -1,4 +1,6 @@
-👋 Hi, I’m Benes Marlon J. Edrote
+#Hello There!👋
+
+Hi, I’m Benes Marlon J. Edrote
 
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning JS, HTML, PHP, CSS
